@@ -4,4 +4,15 @@ plotly
 scikit-learn
 matplotlib
 openpyxl
-random
+geopandas
+seaborn
+category_encoders
+keras
+tensorflow
+statsmodels
+mltools
+forecast_tools
+folium
+dash
+ydata-profiling
+xgboost
