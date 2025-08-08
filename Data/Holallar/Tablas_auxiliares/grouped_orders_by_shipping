@@ -1,0 +1,2268 @@
+Shipping Province,Shipping City,Order Count
+M,Madrid,237
+B,Barcelona,153
+Z,Zaragoza,59
+SE,Sevilla,57
+PM,Palma,52
+V,Valencia,52
+BI,Bilbao,43
+O,Oviedo,39
+PO,Vigo,36
+V,ValÈncia,26
+GR,Granada,23
+L,Lleida,23
+MA,MÁlaga,23
+VA,Valladolid,22
+A,Alicante,21
+PM,Palma De Mallorca,21
+MU,Murcia,21
+BA,Badajoz,20
+Unknown,Pamplona,20
+MA,Marbella,19
+PM,Palma de Mallorca,19
+LU,Lugo,19
+B,Manresa,18
+MA,Málaga,18
+A,Benidorm,17
+B,Badalona,17
+B,Sabadell,16
+S,Santander,16
+BU,Burgos,16
+PM,Ibiza,15
+B,Terrassa,15
+A,Elche,15
+OR,Ourense,15
+Unknown,Unknown,15
+VI,Vitoria,14
+CO,Córdoba,14
+O,Gijon,13
+SS,Donostia,13
+AB,Albacete,13
+A,Torrevieja,13
+O,Gijón,12
+MU,Cartagena,12
+H,Huelva,12
+M,Alcobendas,12
+SO,Soria,12
+MA,Malaga,12
+PO,Pontevedra,12
+T,Reus,12
+LO,Logroño,11
+B,Granollers,11
+BI,Getxo,11
+B,L'hospitalet De Llobregat,11
+V,Gandia,11
+PM,Eivissa,11
+MU,Lorca,11
+GU,Guadalajara,10
+BI,Barakaldo,10
+T,Tarragona,10
+TE,Teruel,10
+SS,San Sebastián,10
+M,Getafe,10
+AL,Almeria,10
+PM,Inca,9
+GI,Girona,9
+SA,Salamanca,9
+SS,Eibar,9
+PM,Muro,9
+C,A Coruña,9
+C,A CoruÑa,8
+LE,León,8
+CO,CÓrdoba,8
+C,Santiago De Compostela,8
+AL,Almería,8
+O,GijÓn,8
+HU,Huesca,8
+CA,Jerez De La Frontera,8
+M,Boadilla Del Monte,8
+MU,Cieza,7
+GI,Olot,7
+CR,Ciudad Real,7
+A,Alcoy,7
+MU,Alcantarilla,7
+V,Torrent,7
+CA,Cadiz,7
+M,Collado Villalba,7
+M,Majadahonda,7
+AL,AlmerÍa,7
+SS,Errenteria,7
+B,Castelldefels,7
+CO,Cordoba,7
+A,Alacant,7
+CO,Lucena,6
+A,DÉnia,6
+L,Balaguer,6
+C,Ferrol,6
+J,Jaén,6
+M,Fuenlabrada,6
+SS,Irun,6
+LU,Guitiriz,6
+LE,Ponferrada,6
+AL,Roquetas De Mar,6
+M,Aranjuez,6
+M,AlcalÁ De Henares,6
+PM,Ciutadella De Menorca,6
+PM,Manacor,6
+A,Denia,6
+CS,CastellÓ De La Plana,6
+MU,Calasparra,6
+GI,Blanes,6
+CU,Cuenca,6
+B,MatarÓ,6
+MA,Fuengirola,6
+M,Valdemoro,6
+M,Villaviciosa De OdÓn,6
+BI,Basauri,6
+SE,Dos Hermanas,6
+CA,CÁdiz,5
+B,Igualada,5
+PM,Palma de mallorca,5
+TO,Illescas,5
+C,La Coruña,5
+SG,Segovia,5
+AB,Villarrobledo,5
+T,Amposta,5
+LE,Leon,5
+CO,Pozoblanco,5
+SS,Zarautz,5
+T,El Vendrell,5
+CC,Cáceres,5
+T,Cambrils,5
+C,Arteixo,5
+MU,Yecla,5
+B,Sitges,5
+CR,Puertollano,5
+CA,San Fernando,5
+CS,Vila-real,5
+PM,CalviÀ,5
+PM,Sóller,5
+B,Mataró,5
+GI,Roses,5
+M,Parla,5
+GI,Figueres,5
+AL,Adra,4
+LU,Ribadeo,4
+LU,Sarria,4
+BI,Santurtzi,4
+SS,Tolosa,4
+GR,AlmuÑÉcar,4
+PM,Mallorca,4
+MU,Jumilla,4
+V,Silla,4
+CA,Puerto Real,4
+O,Posada De Llanes,4
+O,Llanes,4
+A,Orihuela,4
+O,Mieres,4
+P,Palencia,4
+PM,Felanitx,4
+CA,Rota,4
+B,RubÍ,4
+B,Rubi,4
+PM,Sant Antoni De Portmany,4
+MU,Águilas,4
+V,Mislata,4
+B,Esplugues de Llobregat,4
+B,Esplugues De Llobregat,4
+M,Guadarrama,4
+M,Villa Del Prado,4
+M,Tres Cantos,4
+SS,Andoain,4
+H,Ayamonte,4
+B,Hospitalet de llobregat,4
+M,Colmenar Viejo,4
+MA,Ronda,4
+MA,VÉlez-mÁlaga,4
+PO,Mos,4
+M,TorrejÓn De Ardoz,4
+M,San Sebastián de los Reyes,4
+V,Godella,4
+AV,Ávila,4
+C,Carballo,4
+LO,LogroÑo,4
+J,Linares,4
+V,VALENCIA,4
+CO,Baena,4
+V,València,4
+C,Coruña,4
+OR,O CarballiÑo,4
+J,Torredelcampo,4
+VI,Gasteiz,4
+T,Salou,4
+SE,Tomares,4
+Unknown,Tafalla,4
+Unknown,Huarte,4
+SS,Azpeitia,4
+M,Arganda Del Rey,4
+M,Pozuelo De AlarcÓn,4
+PM,Marratxi,4
+CA,Jerez de la frontera,4
+B,L'Hospitalet de Llobregat,4
+MA,Estepona,4
+MA,Antequera,4
+BI,Mungia,3
+BI,Ermua,3
+M,LeganÉs,3
+M,Leganés,3
+BI,Ondarroa,3
+H,Aracena,3
+M,Ciempozuelos,3
+C,Teo,3
+CA,Barbate,3
+T,VandellÒs I L'hospitalet De L'infant,3
+C,Cedeira,3
+HU,Monzón,3
+Unknown,AnsoÁin,3
+AL,El EJIDO,3
+TO,Talavera De La Reina,3
+AL,El Ejido,3
+TO,Ocaña,3
+Unknown,Tudela,3
+GR,Villa De Otura,3
+SS,Lasarte-oria,3
+BI,Leioa,3
+BI,La Quadra,3
+GR,Pinos Puente,3
+BI,Sestao,3
+SS,San Sebastian,3
+LO,Villamediana De Iregua,3
+H,Aljaraque,3
+T,Valls,3
+CC,Navalmoral de la Mata,3
+CC,Moraleja,3
+Z,Ricla,3
+A,Cocentaina,3
+A,Calp,3
+CC,CÁceres,3
+L,La Seu D'urgell,3
+B,Alella,3
+J,Mancha Real,3
+CA,San Roque,3
+V,TurÍs,3
+CA,Sanlúcar De Barrameda,3
+A,AlmoradÍ,3
+OR,Orense,3
+J,Andujar,3
+CC,Coria,3
+T,Cunit,3
+T,Torredembarra,3
+T,Deltebre,3
+L,Tremp,3
+T,Calafell,3
+TO,Quintanar De La Orden,3
+B,Berga,3
+C,Santa Comba,3
+LE,LeÓn,3
+C,Oleiros,3
+LO,Calahorra,3
+V,Fuenterrobles,3
+B,Manlleu,3
+BI,Gorliz,3
+PM,Santa EulÀria Des Riu,3
+PO,A Estrada,3
+B,Matadepera,3
+B,Piera,3
+B,Mataro,3
+BA,Almendralejo,3
+MA,Torremolinos,3
+M,Valdemorillo,3
+SE,Camas,3
+S,Castro-urdiales,3
+B,Mollet Del VallÈs,3
+PO,Redondela,3
+S,Colindres,3
+PO,TomiÑo,3
+SE,Bormujos,3
+BI,BILBAO,3
+BI,Bermeo,3
+M,Pinto,3
+M,Pozuelo de Alarcon,3
+M,Rivas-vaciamadrid,3
+SE,Utrera,3
+M,Moralzarzal,3
+SE,Lebrija,3
+B,La Garriga,3
+GI,Sant Joan Les Fonts,3
+SE,Estepa,3
+M,Pedrezuela,3
+V,Burjassot,3
+V,Benaguacil,3
+V,Betera,3
+GI,Pals,3
+V,Paterna,3
+B,Vilanova y la Geltru,3
+B,Sentmenat,3
+O,Aviles,3
+O,Asturias,3
+PM,Magaluf,3
+B,Vacarisses,3
+C,Santiago de Compostela,3
+B,Vilafranca del Penedès,3
+V,Manises,3
+V,L'eliana,3
+B,Ripollet,3
+V,Carlet,3
+O,Cangas De OnÍs,3
+B,Sant Joan De Vilatorrada,3
+PM,Binissalem,3
+P,Guardo,3
+CR,Daimiel,3
+V,Xirivella,3
+V,Requena,3
+A,Sant Joan D'alacant,3
+V,Ontinyent,3
+A,Cox,3
+CS,Burriana,3
+B,Sant Quirze Del Vallès,3
+O,Luarca,3
+O,Lugones,3
+O,Siero,3
+B,Sant Cugat del Vallés,3
+B,Sant Cugat Del VallÈs,3
+B,Sant Celoni,3
+A,Altea,3
+ZA,Zamora,3
+A,Albatera,2
+V,Paiporta,2
+V,Museros,2
+V,Tavernes de valldigna,2
+A,Muro De Alcoy,2
+A,Xalo,2
+A,San Vicente Del Raspeig,2
+V,Sagunto,2
+V,XÀtiva,2
+V,Xeraco,2
+CO,Nueva Carteya,2
+CR,Herencia,2
+CS,Figueroles,2
+CS,Castellón,2
+CC,Casar De CÁceres,2
+CS,Nules,2
+CS,Moncofa,2
+PM,Campos,2
+B,Samboy De Llobregat,2
+B,Sant Pere De Ribes,2
+PM,Es castell,2
+MU,Santiago de la Ribera,2
+MU,Sangonera la verde,2
+O,Cudillero,2
+O,CastrillÓn,2
+O,OVIEDO,2
+B,Sant Quirze Del VallÈs,2
+B,Taradell,2
+O,Luanco,2
+O,Pola de Lena,2
+OR,Carballino,2
+B,Sant Cugat del Vallès,2
+OR,Maceda,2
+B,Sant Andreu De Llavaneres,2
+PM,Formentera,2
+PM,Palma Mallorca,2
+MU,MazarrÓn,2
+O,Avilés,2
+B,Santpedor,2
+B,Vilassar De Mar,2
+B,Vilanova i la Geltrú,2
+B,Vilanova I La Geltrú,2
+MU,Ulea,2
+MU,Totana,2
+PM,Alaior,2
+P,Velilla Del RÍo CarriÓn,2
+P,Osorno La Mayor,2
+PM,Andraxt,2
+PM,AlcÚdia,2
+PM,San Miguel De Balanzat,2
+B,Olesa De Montserrat,2
+B,Montcada i Reixac,2
+B,Rubí,2
+B,Roda de Ter,2
+MU,Caravaca De La Cruz,2
+MU,Bullas,2
+MU,Alhama De Murcia,2
+MU,Alahama De Murcia,2
+BA,Azuaga,2
+MU,Jumilla Murcia,2
+MU,San Javier,2
+PM,Mahon,2
+PM,Lloseta,2
+B,Puig-reig,2
+B,Prat de llobregat,2
+BA,Villanueva de la Serena,2
+MA,Casabermeja,2
+MA,Puerto Banus,2
+MA,Mijas costa,2
+BA,Merida,2
+BA,La codosera,2
+PM,San Rafael,2
+PM,Ses Salines,2
+PO,Cambados,2
+PO,Baiona,2
+B,Pineda De Mar,2
+B,Palau Solita I Plegamans,2
+B,Pacs Del PenedÈs,2
+PO,O Rosal,2
+PM,Palma D Mallorca,2
+PM,MaÓ,2
+PO,Soutomaior,2
+PO,Sanxenxo,2
+S,Castro urdiales,2
+B,La garriga,2
+B,Moncada Reixac,2
+B,Molins De Rei,2
+S,Reinosa,2
+S,Marina De Cudeyo,2
+S,Laredo,2
+M,Móstoles,2
+M,MÓstoles,2
+M,Torrelodones,2
+M,San Sebastián de los reyes,2
+M,San Fernando de Henares,2
+M,Villaviciosa de Odon,2
+M,Villarejo De SalvanÉs,2
+SG,Cabezuela,2
+B,El Prat de Llobregat,2
+M,Mostoles,2
+M,Meco,2
+M,Manzanares El  Real,2
+BI,Elorrio,2
+BI,Bilbo,2
+BI,Bilbao - España,2
+SA,La Fuente De San Esteban,2
+SA,Carbajosa de la sagrada,2
+S,Torrelavega,2
+S,Santoña,2
+SE,Arahal,2
+B,Hospitalet del Llobregat,2
+B,Malgrat De Mar,2
+SE,Carmona,2
+B,Hospitalet De Llobregat,2
+SO,Olvega,2
+SG,Valdeprados,2
+SS,Hernani,2
+M,Colmenarejo,2
+M,Colmenar viejo,2
+M,MADRID,2
+M,Leganes,2
+BI,Alonsotegi,2
+M,Las Rozas De Madrid,2
+SE,Mairena Del Alcor,2
+SE,La Luisiana,2
+SE,Herrera,2
+SE,Pedrera,2
+SE,Osuna,2
+SE,Montellano,2
+B,Cubelles,2
+B,CornellÀ De Llobregat,2
+SS,Idiazabal,2
+M,Alcalá de Henares,2
+BI,Etxebarri,2
+BI,Erandio,2
+BI,Portugalete,2
+BI,Plentzia,2
+M,Buitrago del Lozoya,2
+M,Brunete,2
+M,Galapagar,2
+SS,Aretxabaleta,2
+B,Cornella De Llobregat,2
+B,Corbera de Llobregat,2
+B,Cerdanyola Del VallÈs,2
+B,Hospitalet de Llobregat,2
+B,Castellbell I El Vilar,2
+T,Ginestar,2
+T,Falset,2
+LU,LUGO,2
+LU,Vilalba,2
+M,Arroyomolinos,2
+BI,Zamudio,2
+BI,Zalla,2
+M,Alcorcón,2
+SS,Beasain,2
+SS,Pasai Donibane,2
+SS,Ordizia,2
+SS,Legazpi,2
+SS,Lazkao,2
+B,Castellar Del VallÈs,2
+B,El Masnou,2
+AV,Navacepedilla de Corneja,2
+B,Caldes De Montbui,2
+B,Calaf,2
+T,Montblanc,2
+T,Ulldecona,2
+LE,Matarrosa Del Sil,2
+LE,Llanos De Alba,2
+LO,Alfaro,2
+BU,Olmos de Atapuerca,2
+LE,Villafranca Del Bierzo,2
+LE,Trobajo del Camino,2
+T,Almoster,2
+SS,Zumaia,2
+SS,Urnieta,2
+B,Barbera,2
+B,Castellbisbal,2
+B,Arenys De Mar,2
+TO,Casarrubios Del Monte,2
+TO,Santa Cruz De La Zarza,2
+J,ValdepeÑas De JaÉn,2
+L,Guissona,2
+L,TÀrrega,2
+L,Rialp,2
+L,Lleyda,2
+LE,La BaÑeza,2
+BU,Miranda de Ebro,2
+C,Ares,2
+C,Ames,2
+LE,CabaÑas Raras,2
+LE,Puente Domingo Flores,2
+T,El Morell,2
+T,Raval de Cristo,2
+J,Alcaudete,2
+J,3. 5.    D,2
+J,La Guardia,2
+J,Jodar,2
+J,JaÉn,2
+J,Ibros,2
+J,Pozo Alcon,2
+C,La CoruÑa,2
+J,Martos,2
+J,Úbeda,2
+T,Tortosa,2
+TE,Andorra,2
+TE,AlcaÑiz,2
+TO,Galvez,2
+AL,Vera,2
+B,BARCELONA,2
+Unknown,Alsasua,2
+TO,Toledo,2
+TO,Talavera de la reina,2
+TO,Talavera de la Reina,2
+Unknown,Burlada,2
+Unknown,Azagra,2
+AV,Arenas de San Pedro,2
+Unknown,Arazuri,2
+HU,Sabiñanigo,2
+J,Chilluevar,2
+J,Cazorla,2
+J,Beas De Segura,2
+J,Baeza,2
+C,Betanzos,2
+C,NarÓn,2
+J,Arjona,2
+Unknown,Lodosa,2
+Unknown,Lekunberri,2
+AL,Aguadulce,2
+AL,Roquetas De Mar Aguadulce,2
+AL,Olula del río,2
+GR,Peligros,2
+H,Arroyomolinos De LeÓn,2
+H,Nerva,2
+H,Mazagon,2
+H,Lepe,2
+C,MiÑo,2
+C,MesÍa,2
+H,Rociana del condado,2
+H,Punta UmbrÍa,2
+TO,Quintanar de la Orden,2
+TO,Mora,2
+V,Ayora,2
+V,Alzira,2
+V,Alfafar,2
+V,Guadassuar,2
+V,El Puig D Santamaria,2
+GI,Sant Feliu de Guíxols,2
+GR,Alfacar,2
+GI,Torroella De MontgrÍ,2
+GR,Fuente Vaqueros,2
+GR,Motril,2
+GR,Órgiva,2
+C,Ordes,2
+GR,Santafe,2
+Unknown,Andosilla,2
+Unknown,Cadreita,2
+Unknown,Murchante,2
+V,Massanassa,2
+V,Massamagrell,2
+V,Quart De Poblet,2
+V,Picassent,2
+A,Rojales,2
+A,Polop,2
+AB,Alpera,2
+GI,Ghmar,2
+GI,Garriguella,2
+GI,GIRONA,2
+GI,Lloret de Mar,2
+GI,Lloret De Mar,2
+GI,LlanÇÀ,2
+GI,SarriÀ De Ter,2
+AL,Arboleas,2
+V,Benaguasil,2
+CS,L'alcora,2
+CU,Iniesta,2
+GI,Banyoles,2
+GI,ArbÚcies,2
+CU,Motilla Del Palancar,2
+GI,Castell-platja D'aro,2
+CA,Conil De La Frontera,2
+CA,Chipiona,2
+CA,Chiclana de la Frontera,2
+GI,Breda,2
+GI,Labisbal de empurda,2
+GI,L'escala,2
+GI,L'Escala,2
+V,Cullera,2
+V,Carcaixent,2
+V,Montserrat,2
+A,Almoradí,2
+CC,Madrigalejo,2
+CO,Castro Del RÍo,2
+CO,Carcabuey,2
+CO,Cabra,2
+CO,Santaella,2
+CO,Puente Genil,2
+CO,Priego De CÓrdoba,2
+CO,Peñarroya pueblonuevo,2
+V,Xativa,2
+V,Vilamarxant,2
+V,Valencia Capital,2
+VA,Olmedo,2
+VA,Medina Del Campo,2
+A,Onil,2
+V,massamagrell,2
+PM,Alcudia,2
+ZA,Benavente,2
+A,Cañada,2
+A,Calpe,2
+CC,Guadalupe,2
+CC,Cedillo,2
+VA,Íscar,2
+VI,Vitoria Gasteiz,2
+VI,Villanañe,2
+VI,Laguardia,2
+Z,Mequinenza,2
+A,En Albir,2
+A,El Campello,2
+Z,Daroca,2
+Z,Calatayud,2
+Z,Borja,2
+ZA,Zamora.,1
+A,Alcoi,1
+A,Alcoi/alcoy,1
+A,Alfaz del pi,1
+A,Alicante/Alacant,1
+Z,VALAREÑA,1
+Z,Caspe,1
+Z,Ejea De Los Caballeros,1
+A,El  Campello,1
+A,Elda,1
+A,Formentera Del Segura,1
+A,Guardamar Del Segura,1
+A,Jacarilla,1
+A,Javea /alicante,1
+Z,Mallen,1
+Z,María de Huerva,1
+Z,Monzalbarba,1
+Z,Novillas,1
+Z,Pastriz,1
+Z,Pedrola,1
+Z,Ejea De Los Caballerosl,1
+Z,Ejea de los caballeros,1
+CC,Navalmoral De La Mata,1
+CC,Navezuelas,1
+CC,PasarÓn De La Vera,1
+CC,Plasencia,1
+CC,Pueblonuevo De Miramontes,1
+CC,Riolobos,1
+CC,Trujillo,1
+CC,Valdastillas,1
+CC,Valencia De Alcantara,1
+CC,Valencia De AlcÁntara,1
+CC,Valencia de Alcantara,1
+CC,Valrío,1
+CC,Zarza De Granadilla,1
+CO,AlmodÓvar Del RÍo,1
+CC,Cácerec,1
+CC,Hinojal,1
+CC,Losar De La Vera,1
+CC,Madrigal de la Vera,1
+CC,Malpartida de Plasencia,1
+CC,Misjadas,1
+CC,Monroy,1
+CA,San MartÍn Del Tesorillo,1
+CA,San Roque Club,1
+CA,Sanlucar de Barrameda,1
+CA,Sanlúcar de Barrameda,1
+CA,Ubrique,1
+CO,Códoba,1
+CO,Córdoba España,1
+CO,ELCHE,1
+CO,España,1
+CO,LA CARLOTA _ CÓRDOBA,1
+CO,Los Blázquez,1
+CR,Fuente el Fresno,1
+CO,Medellin,1
+CO,Montilla,1
+CO,Montoro,1
+CO,Monturque,1
+CO,Palma Del RÍo,1
+CO,PeÑarroya-pueblonuevo,1
+CO,Priego De Cordoba,1
+CO,Villa del rio,1
+CO,Villaviciosa De CÓrdoba,1
+CO,hpwñarroya pueblonuevoispanic,1
+CO,Benamejí,1
+CO,Castro del Río,1
+CC,Jarandilla De La Vera,1
+CC,Jerte,1
+CC,La Garganta,1
+CR,Villanueva de los Infantes,1
+CR,Viso Del MarquÉs,1
+CR,Viso del Marques,1
+CS,Almassora,1
+CR,AlcÁzar De San Juan,1
+CR,Almagro,1
+CR,Argamasilla de calatrava,1
+CR,BolaÑos De Calatrava,1
+CR,Campo   de  Criptana,1
+CR,Chillon,1
+CR,ChillÓn,1
+CR,Cinco casas,1
+CR,Ciudad real,1
+CR,Ciudadreal,1
+CR,Ciudád Real,1
+CR,Corral calatrava,1
+CS,CastellÓ,1
+CS,Castellón De La Plana,1
+CS,Castllon,1
+CS,Grao de Castellón,1
+CS,Grau,1
+CR,La Solana,1
+CR,Manzanares,1
+CR,Miguelturra,1
+CR,Montiel,1
+CR,Navalpino,1
+CR,Santa Quiteria,1
+CR,Tomelloso,1
+CR,Torrenueva,1
+CR,Valdepeñas,1
+CR,Villanueva De Los Infantes,1
+CR,Villanueva de la Fuente,1
+CA,Puerto De Santa MarÍa,1
+CS,Ribesalbes,1
+CS,Segorbe,1
+CS,TÍrig,1
+CS,VILLARREAL,1
+CS,Valencia,1
+CS,Vall dalba,1
+CS,Vall de uxo,1
+CS,Vinaros,1
+CS,AzuÉbar,1
+CS,Benicarlo,1
+CS,Benicarló,1
+CS,Benicerlo,1
+CS,Castello De La Plana,1
+CS,Castellon,1
+CS,Castellon De La Plana,1
+CS,Peniscola,1
+CS,PenÍscola,1
+CA,Vejer De La Frontera,1
+CA,Villamartin,1
+CC,AlcuÉscar,1
+CC,Arroyo De La Luz,1
+CC,Cabezuela Del Valle,1
+CC,Casar de Cáceres,1
+CC,Caseres,1
+CC,CastaÑar De Ibor,1
+CA,Jimena de la Frontera,1
+CA,Medina Sidonia,1
+CA,Olvera,1
+CA,Prado Del Rey,1
+CA,Prado del Rey,1
+CA,Pueblo Nuevo de Guadiaro,1
+CS,Vinaroz. Castellón.,1
+CS,VinarÒs,1
+CS,Vinaròs,1
+CS,Viver,1
+CS,Xilxes,1
+CS,castellón de la plana,1
+CU,Aliaguilla,1
+CU,Arcas,1
+CU,Carrascosa del Campo,1
+CU,Casasimarro,1
+CU,Cañada del hoyo,1
+CU,El picazo,1
+CU,Horcajo De Santiago,1
+CU,Huete,1
+CS,La Vall D'uixÓ,1
+CS,Onda,1
+GI,Corça,1
+GI,El port de la selva,1
+GI,Empuriabrava,1
+GI,FIGUERES,1
+CU,Landete,1
+CU,Ledaña,1
+CU,Quintanar del Rey,1
+CU,Talayuelas,1
+CU,Tarancón Cuenca,1
+CU,Villaverde y pasaconsol,1
+GI,ARBUCIES,1
+GI,Arbucies,1
+GI,Besalu,1
+GI,Besalú,1
+GI,BescanÓ,1
+GI,Bonmati,1
+GI,Campdevánol,1
+GI,Camprodon,1
+CA,Puerto De Santa MarÍa Cadiz,1
+CA,Puerto de santa maria,1
+CA,Puerto de santa maría,1
+CA,Puerto real,1
+CA,SAN ROQUE,1
+CA,San José del valle CADDIZ,1
+CA,Chiclana De La Frontera,1
+CA,Conil,1
+CA,Conil de la Frontera,1
+CA,Conil de la frontera,1
+GI,Capmany,1
+GI,Cassa de la Selva,1
+GI,CassÀ De La Selva,1
+GI,Castell daro,1
+GI,Molló,1
+GI,Palafrugell,1
+GI,Palamos,1
+GI,Palamós,1
+GI,Figueras - Girona,1
+GI,Fornells De La Selva,1
+GI,GERONA,1
+GI,Gerona puigcerda,1
+GI,La Bisbal D'empordÀ Girona,1
+GI,La bisbal,1
+GI,Les Planes de hostoles,1
+GI,Les Preses,1
+GI,Cabanes,1
+GI,CadaquÉs,1
+GI,Calonge,1
+GI,Calonge -sant Antoni.,1
+GI,Llança,1
+GI,Llivia,1
+CA,El Puerto De Santa María,1
+CA,El Puerto de Santa Maria,1
+CA,El pto de Sta María,1
+CA,Jerez de la Frontera,1
+CA,Jerez de la frontera.la barca de la florida,1
+CA,Jerez frontera,1
+C,Santa Eugenia De Ribeira,1
+C,Santiago de  compostela,1
+C,Sesmonde- Vilasantar,1
+C,Sobrado,1
+C,TEO  A  coruña,1
+GI,LlÍvia,1
+GI,MaÇanet De La Selva,1
+GI,Molllo,1
+GR,Almuñecar,1
+GR,Almuñécar,1
+GI,Puigcerdà,1
+GI,Riells I Viabrea,1
+GI,Sant  Felu de Guixols,1
+GI,Sant Dalmai,1
+GI,Sant Feliu De Guíxols,1
+GI,Sant Gregori,1
+GI,Sant Jordi Desvalls,1
+GI,Sant Miquel De Campmajor,1
+GI,Sant Pere Pescador,1
+GI,Sant antoni de calonge,1
+GI,Santa Coloma De Farners,1
+GI,Santa coloma de farners,1
+GI,Llagostera,1
+GI,Llansa,1
+GR,Dúrcal,1
+GR,ESPAÑA,1
+GR,Freila,1
+GR,Gojar,1
+GR,Gor,1
+GI,Torroella de Montgrí,1
+GI,Tossa De Mar,1
+GI,Ullá,1
+GI,VILA - SACRA,1
+GI,Vilafant,1
+GI,Vilatenim,1
+GR,"Acula, Ventas de Huelma",1
+GR,"Albolote , Granada",1
+GR,Alcudia De Guadix,1
+GR,Alhama de Granada,1
+GR,Almegijar,1
+GR,Maracena,1
+GR,Maracena 18200,1
+GR,MontefrÍo,1
+GR,Montillana,1
+GR,OgÍjares,1
+GR,Orce,1
+GR,Padul,1
+GR,Armilla,1
+GR,Armilla de Granada,1
+GR,Baza,1
+GR,Benamaurel,1
+GR,Caparacena,1
+GR,Cenes De La Vega,1
+GR,Cijuela,1
+GR,Cogollos Vega,1
+GR,Cuevas del Campo / Granada,1
+C,Ponteceso,1
+GR,Villa De Otura.,1
+GR,Zafarraya,1
+GU,Alovera,1
+GU,Azuqueca de  Henares,1
+GU,Azuqueca de henares,1
+GU,Cabanillas del Campo,1
+GU,El Casar,1
+GR,Guadix,1
+GR,Huescar,1
+GR,Huétor Vega,1
+GR,Huétor tajar,1
+GR,Illora Granada,1
+GR,JÁtar,1
+GR,Lanjaron,1
+GR,Loja,1
+H,Encinasola,1
+GR,Pitres,1
+GR,SalobreÑa,1
+GR,Valle Del ZalabÍ(Alcudia d Guadalix,1
+GR,Ventas De Zafarraya,1
+C,Val Do Dubra,1
+C,Vilasantar,1
+CA,Arcos De La Frontera,1
+CA,Arcos de la frontera,1
+CA,Benalup,1
+CA,Campamento San Roque,1
+C,Ortigueira,1
+C,Outes,1
+C,Pastoriza - Arteixo,1
+C,Perillo Oleiros,1
+C,Pobra Do CaramiÑal,1
+H,Isla Cristina,1
+H,Jabugo,1
+H,La Antilla Lepe,1
+H,Niebla,1
+H,Palos De La Frontera,1
+H,Pozo del Camino,1
+GU,MONDEJAR,1
+GU,Marchamalo,1
+GU,Matillas,1
+GU,Pareja,1
+GU,SacedÓn,1
+GU,Sigüenza,1
+GU,Torrejon del Rey,1
+H,Almonte,1
+H,Bonares,1
+H,Cabezas Rubias,1
+C,Muros,1
+H,Valverde Del Camino,1
+H,Valverde del Camino,1
+H,Villalba del Alcor,1
+HU,Ainsa,1
+HU,AngÜÉs,1
+HU,Barbastro,1
+HU,El Temple,1
+HU,Estadilla,1
+HU,Estopiñan del castillo,1
+H,Galaroza,1
+H,Gibraleon,1
+H,Gibraleón,1
+H,Granada de Río tinto,1
+H,HUELVA,1
+H,Hinojos,1
+H,Pozo del Camino.,1
+H,Punta umbria,1
+H,Rociana del Condado,1
+H,San Juan del Puerto,1
+H,Trigueros/huelva,1
+C,Pontedeume,1
+C,Pontedeune,1
+C,Porto do són,1
+C,Pto. De Espasante _Ortigueira,1
+C,Ribeira,1
+C,Riveira,1
+C,Sada,1
+C,San Sadurniño - Teo,1
+C,Mazaricos,1
+C,Milladoiro,1
+C,Miño(campo  De  Golf),1
+J,Campillo De Arenas,1
+J,Espeluy,1
+J,Fuerte Del Rey,1
+HU,Fraga,1
+HU,Graus,1
+HU,HUESCA,1
+HU,La Cabezonada,1
+HU,Osso De Cinca,1
+HU,Rañin,1
+HU,Sangarrén,1
+HU,Tamarite de Litera,1
+HU,Tierrantona,1
+HU,Valcarca,1
+HU,Vencillon,1
+HU,Vilas del Turbon,1
+HU,Villanua,1
+J,ANDÚJAR,1
+J,AndÚjar,1
+J,Andújar,1
+C,Naron,1
+C,Narón,1
+C,Negreira,1
+C,Noia,1
+C,Noya,1
+C,O Pino,1
+C,Oburgo Culleredo 15670,1
+C,Boiro,1
+C,CEE,1
+C,Cabana De Bergantiños,1
+C,Cacheiras-Teo,1
+J,Arjonilla,1
+J,BaÑos De La Encina,1
+J,Sabiote,1
+J,Torredelcampo Jaén,1
+J,Torredonjimeno,1
+J,Torreperogil Jaén,1
+J,Torres De Albanchez,1
+J,Guarroman,1
+J,Huelma,1
+J,Huesa,1
+J,Jaen Torreperogil,1
+J,Jaén es,1
+J,JÓdar,1
+J,La Carolina,1
+J,La Guardia De Jaen,1
+J,La Guardia De JaÉn,1
+J,La iruela,1
+J,Lahiguera,1
+J,Martos jaen,1
+J,Peal De Becerro,1
+J,Porcuna,1
+C,Cee,1
+C,Corcubión,1
+C,CoruÑa,1
+C,Dodro,1
+C,Fene_ Perlio,1
+C,Ferrol ( Coruña ),1
+C,"A Coruña, Betanzos",1
+C,A Coruńa,1
+C,A Pobra Do CaramiÑal,1
+C,"A coruña, oleiros",1
+C,Altamira Cambre,1
+J,Pozo AlcÓn,1
+J,Puente De GÉnave,1
+L,Les Borges Blanques,1
+J,Torres De AlbÁnchez,1
+J,Torres de Albanchez,1
+J,Vilches,1
+J,Villacarrillo,1
+J,Villanueva Del Arzobispo,1
+J,Villatorres,1
+L,ALCOLETGE,1
+L,Agramunt,1
+L,Alacarras,1
+L,Alcarras,1
+L,AlcarrÀs,1
+L,Alcoletge,1
+L,Alguaire,1
+L,Almacelles,1
+J,Linares - Baeza,1
+L,SORT,1
+L,Sant LlorenÇ De Morunys,1
+L,Solsona,1
+L,Tàrrega,1
+L,Alpicat,1
+L,Artesa De Segre,1
+L,Bellver De Cerdanya,1
+L,Bellver De Cerdaña,1
+L,Betren,1
+L,Borges blancas 25.400,1
+L,Bossost,1
+L,La Pobla De Segur,1
+L,La Seo de Urgel,1
+L,La Seu D Urgell,1
+L,La seu d'urgell,1
+L,Lerida,1
+BU,Miranda De Ebro,1
+LE,Caboalles de Abajo,1
+LE,Cacabelos,1
+LE,Calzadilla de los Hermanillos,1
+LE,Congosto,1
+LE,Corullon,1
+LE,Fuentes Nuevas,1
+LE,La baña,1
+LE,Las Murias de Babia,1
+L,"Lleida  , Mangraners",1
+L,Llerida,1
+L,Mollerussa,1
+L,Montoliu De Lleida,1
+L,Naut Aran,1
+L,Naut Aran.  Lerida,1
+L,Prullans,1
+L,Vila-sana,1
+L,Vilaller,1
+L,Vilanova De Bellpuig,1
+L,𝙻𝚕𝚎𝚒𝚍𝚊,1
+LE,Astorga,1
+C,Ames  Milladoiro Santiago de Compostela,1
+C,As Pontes De GarcÍa RodrÍguez,1
+C,BERTOA,1
+C,Bergondo,1
+C,Bertamirans,1
+C,Bertamirans Ames,1
+BU,Espinosa de los monteros,1
+BU,Fuentespina,1
+BU,Medina De Pomar,1
+BU,Medina de Pomar,1
+BU,Melgar De Fernamental,1
+BI,Ugao-miraballes,1
+LO,Alberite,1
+LO,Bañares,1
+LO,Casalarreina,1
+LO,Haro,1
+LO,Lardero,1
+LE,MIÑAMBRES de la valdierna,1
+LE,Paramo Del Sil,1
+LE,Pobladura De Pelayo García León,1
+LE,RiaÑo,1
+LE,San AndrÉs Del Rabanedo,1
+LE,San Andrés del Rabanedo,1
+LE,San Juan de Torres,1
+LE,San Miguel De Las Dueñas,1
+LE,Toreno,1
+L,Viella,1
+LE,Villamañan,1
+LE,Villaquilambre,1
+LE,valladolid,1
+LO,Aguilar Del Río Alhama,1
+BU,Miranda de ebro,1
+BU,Pedrosa De RÍo Úrbel,1
+BU,Rabanera Del Pinar,1
+BU,Roa De Duero,1
+BU,Villalbilla de Burgos,1
+BU,bercedo/ merindad de montija/,1
+C,A  Coruña,1
+C,A CORUÑA,1
+BI,Santurce,1
+BI,Sodupe,1
+BI,Sopelana,1
+BI,Trapaga,1
+LU,viveiro,1
+M,28009,1
+M,Alcala de Henares,1
+LO,NÁjera,1
+LO,QUEL,1
+LO,Ventosa,1
+LO,logroño,1
+LU,A Pontenova,1
+LU,Barreiros,1
+LU,Burela,1
+LU,CHANTADA,1
+LU,Cospeito,1
+LU,Friol,1
+LU,Galicia,1
+LU,Monforte De Lemos,1
+LE,Vilecha Leon,1
+M,Aldea del fresno,1
+M,Aluche,1
+M,Aravaca Madrid,1
+M,ArevaloTorrejon de Ardoz,1
+M,Becerril De La Sierra,1
+M,Becerril de la Sierra,1
+LU,Monforte de Lemos,1
+LU,Navia De Suarna,1
+LU,Outeiro De Rei,1
+LU,Outeiro De Rei Lugo,1
+LU,Piñeira (Ribadeo),1
+LU,Pol,1
+LU,San Ciprian,1
+LU,Sarria (lugo),1
+LU,Vilarmide,1
+LU,Viveiro,1
+M,Collado Mediano,1
+M,Collado villalba,1
+M,Alcalá De Henares,1
+M,Alcorcon,1
+M,Aldea Del Fresno,1
+BI,Valle de trapaga,1
+BI,Villaro,1
+BI,Zeberio,1
+BI,Zierbena,1
+BI,bilbao,1
+BU,Alfoz De QuintanadueÑas,1
+BI,"Las Arenas, Getxo",1
+BI,Las arenas Guecho,1
+BI,Lekeitio,1
+BI,Markina-Xemein,1
+BI,Maruri-jatabe,1
+M,Cabanillas De La Sierra,1
+M,Cadalso De Los Vidrios,1
+BI,Mugica,1
+BI,Mundaka,1
+BI,ORTUELLA,1
+BI,Ortuella,1
+BI,San Miguel De Basauri,1
+BI,España,1
+BI,Galdakano,1
+BI,Galdames,1
+BI,Galdácano,1
+M,"Calle García Lorca, 2-3 D.   Mostoles.",1
+M,Camarma De Esteruelas,1
+M,Cerceda,1
+M,ChinchÓn,1
+M,Cislada,1
+M,Las rozas,1
+M,Leganes ( Madrid  ),1
+M,Madird,1
+M,Madrid 28011,1
+M,Collado.villalba,1
+M,Coslada,1
+M,Daganzo,1
+M,El Pardo,1
+M,El molar,1
+M,El Álamo,1
+M,España,1
+M,GUADARRAMA,1
+M,Gargantilla Del Lozoya,1
+M,GriÑÓn,1
+M,Boadilla del Monte,1
+M,Boadilla del Monte ( Urbanización Las Lomas),1
+M,Hoyo De Manzanares,1
+M,LAS ROZAS,1
+M,La Cabrera Madrid,1
+M,Las Rozas,1
+M,Las maras,1
+BI,Gallarta,1
+BI,Gatica,1
+BI,Geptxo,1
+BI,Gernika-Lumo,1
+BI,Gernika-lumo,1
+BI,GÜeÑes,1
+BI,Ispaster,1
+BI,Aranguren,1
+BI,Arantzazu,1
+BI,Bakio,1
+BI,Baracaldo,1
+M,Perales de tajuña   Madrid,1
+M,Piñuecar,1
+M,Restaurant Venta De Meco,1
+M,Rivasvaciamadrid,1
+M,San Agustín del Guadalix,1
+M,Madrid 28027,1
+M,Madrid Alcobendas,1
+M,Madrid Arganzuela,1
+M,Madrid Latina,1
+M,Madrid Usera,1
+M,Madrud,1
+M,Manzanares el Real,1
+M,Mataelpino,1
+M,Mejorada Del Campo,1
+M,Morata De TajuÑa,1
+M,Morata De Tajuña/madrid,1
+M,Torrejon De Ardoz,1
+M,TorrejÓn De Velasco,1
+M,Torrejón de Ardoz,1
+M,Paracuellos De Jarama,1
+M,Parla Madrid,1
+M,Perales De TajuÑa,1
+BI,Belandia/ orduña,1
+BI,Bilbão,1
+BI,Carranza,1
+BA,Quintana De La Serena,1
+BA,Retamar,1
+BA,Ribera del Fresno,1
+BA,San Pedro De MÉrida,1
+BA,Solana De Los Barros,1
+BA,Torre de Miguel Sesmero,1
+BA,Trujillanos,1
+BA,La Albuera,1
+BA,La Roca de la Sierra,1
+BA,La Zarza,1
+M,Villafranca Del Castillo,1
+M,Villalbilla,1
+M,madrid,1
+MA,ALHAURÍN EL GRANDE,1
+MA,Alameda,1
+M,San Fernando De Henares,1
+M,San Lorenzo Escorial,1
+M,San Martín de la vega,1
+M,San Sebastian De Los Reyes,1
+M,San SebastiÁn De Los Reyes,1
+M,San Sebastián De Los Reyes 28702,1
+M,San sebastian de los reyes,1
+M,Tielmes,1
+M,Urbanización La Berzosa en Hoyo De Manzanares,1
+M,Vaeldemoro,1
+M,Valdetorres De Jarama,1
+M,Velilla De San Antonio,1
+BA,Villanueva De La Serena,1
+BA,Villanueva del Fresno,1
+BA,Zafra,1
+BA,Zalamea De La Serena,1
+BA,honachos,1
+BI,48260,1
+BI,Algorta,1
+BI,Algorta Getxo,1
+BA,Fuente Del Arco,1
+BA,Higuera la Real,1
+BA,Jerez De Los Caballeros,1
+BA,Jerez de los caballetos,1
+MA,Manilba,1
+MA,Manilva,1
+MA,AlcaucÍn,1
+MA,Algarrobo Costa,1
+MA,AlgatocÍn,1
+MA,AlhaurÍn De La Torre,1
+MA,AlhaurÍn El Grande,1
+MA,Almogia,1
+MA,Benahavis,1
+MA,BenalmÁdena,1
+MA,Benamocarra,1
+MA,Campillos Málaga,1
+MA,Churriana,1
+MA,Colmenar,1
+MA,Cortes de laFrontera,1
+MA,Cuevas de San Marcos provincia de Málaga,1
+MA,MÁLAGA,1
+MA,Málaga Benalmadena,1
+MA,Nerja,1
+MA,Pizarra,1
+MA,Puerto Banús Marbella,1
+MA,Cártama estación,1
+MA,España,1
+MA,Fuegurola,1
+MA,Fuengirola Malaga,1
+MA,La Cala Del Moral (Rincón de la Victoria),1
+MA,La Cala del Moral,1
+MA,Las Lagunas De Mijas,1
+MA,MALAGA,1
+MA,MARBELLA,1
+MA,Malaga Cspital,1
+MA,Malga,1
+B,sant Joan de vilatorrada,1
+B,vilanova bailaje el tru,1
+BA,Alconchel,1
+MA,Sitio de calahonda Mijas Costa,1
+MA,Tolox,1
+MA,Torre de Benagalbón,1
+MA,Torremolino,1
+MA,Torremolinoz,1
+MA,Villanueva Del Rosario,1
+MA,Villanueva del Rosario,1
+MA,Marbeiia,1
+MA,Marbella .San pedro de alcantara,1
+MA,Mijas,1
+MA,Mijas Costa,1
+MA,Mollina,1
+MA,Monjas,1
+MA,RincÓn De La Victoria,1
+MA,San Luis De Sabinillas,1
+MA,San Pedro,1
+MA,San Pedro  Alcantara  Marbella  Malaga,1
+MA,San pedro de alcantata,1
+MA,Sierra de Yeguas,1
+BA,Los santos de maimona,1
+BA,Medellín,1
+BA,Mirandilla,1
+BA,MÉrida,1
+BA,Oliva De L Frontera,1
+BA,Olivenza,1
+BA,Puebla De Obando,1
+B,Vilassar de Dalt,1
+B,Villanueva Y La Geltru,1
+B,Villanueva i la geltru,1
+MU,La unión Cartagena,1
+MU,La ñora,1
+MU,Las Torres de Cotillas,1
+MU,Las Torres de cotillas,1
+MU,Librilla,1
+MU,Llano De Brujas  Murcia,1
+MU,Llanos De Brujas,1
+MU,Lobosillo,1
+MA,Vélez Málaga,1
+MA,Álora,1
+MU,Abaran,1
+MU,Aguilas,1
+MU,Beniajan,1
+MU,Blanca,1
+MU,Cartagena (murcia),1
+MU,Cobatillas,1
+MU,Dolores de Pacheco,1
+MU,Isla Plana,1
+MU,La Manga/ Cartagena,1
+MU,La hoya lorca,1
+BA,BADAJOZ,1
+BA,Bancarrota,1
+BA,Bienvenida,1
+BA,Cabeza la Vaca,1
+BA,Calamonte,1
+BA,Campanario,1
+BA,Don Benito,1
+B,Vacarisess,1
+B,Vallirana,1
+B,Vic,1
+B,Viladecans,1
+B,Vilanova Del CamÍ,1
+O,Asturias.  33780,1
+O,Bimenes,1
+MU,Los Alcázares,1
+MU,MURCIA,1
+MU,Molina De Segura,1
+MU,Mula,1
+MU,"Murcia ,torreagüera",1
+MU,"Murcia,Torreaguera",1
+MU,OjÓs,1
+MU,Puente tocinos,1
+MU,Puerto Lumbreras,1
+MU,Puerto de Mazarrón,1
+MU,Roldan,1
+MU,San Pedro Del Pinatar 59,1
+MU,San pedro del  Pinatar,1
+MU,Corvera,1
+O,Elentrego,1
+O,Figueras(asturias),1
+MU,Sangonera La Verde 30833,1
+MU,Torre-pacheco,1
+B,Vilanova Del Camí,1
+B,Vilanova I La Geltru,1
+B,Vilanova I La GeltrÚ,1
+B,Vilanova del Vallès,1
+B,Vilassar De Dalt,1
+B,Santa perpetua de mogoda,1
+B,Seva,1
+B,Sitches,1
+B,Súria,1
+MU,alumbres cartagena,1
+MU,cartagena,1
+MU,sangonera la verde,1
+O,"La Llera De Colunga, En Colunga",1
+O,La caridad,1
+O,La foz de morcin,1
+O,La foz morcÍn,1
+O,Langreo Oviedo,1
+O,COLUNGA,1
+O,Cabañaquinta,1
+O,Candas,1
+O,Candàs,1
+O,Cangas Del Narcea,1
+O,Cangas del. Narcea,1
+O,Carabanzo Pola De Lena,1
+O,Castrillon,1
+O,Castropol,1
+O,Colunga Asturias,1
+O,Elche,1
+B,Sant cugat del valles,1
+O,Nava,1
+O,NoreÑa,1
+O,Noreña,1
+O,"Ortiguera  Mohias,   Coaña",1
+O,Oviedo.,1
+O,POLA DE LENA,1
+O,Piloña Infiesto,1
+O,GIJON,1
+O,GRADO,1
+O,Gamones Valdés Asturias,1
+O,Gijonn,1
+O,Grado,1
+O,LA FELGUERA - LANGREO,1
+O,La Felguera,1
+O,La Felguera  Langreo,1
+O,Tapia De Casariego,1
+O,Tapia de Casariego,1
+O,Tineo,1
+O,Llanera,1
+O,MERES-SIERO-ASTURIAS,1
+B,Tarrassa,1
+B,Terrasa,1
+B,Tiana,1
+B,TorellÓ,1
+B,Torrellas De Llobregat.   Barcelona,1
+B,Torrelles De Llobregat,1
+B,Torrelles Llobregat,1
+B,Sant Vicenc Dels Horts,1
+B,Sant VicenÇ Dels Horts,1
+B,Sant Vicenç de Torelló,1
+B,Sant cugat del Vallés,1
+OR,Barco De Valdeorras ( Orense),1
+OR,BoborÁs,1
+OR,CELANOVA,1
+OR,Cartelle,1
+OR,Castro Caldelas,1
+OR,Celanova,1
+O,Pola de Laviana,1
+O,Pola de Siero,1
+O,Pola de siero,1
+O,Posada de Llanes,1
+O,Pravia,1
+O,RIAÑO.  LANGREO,1
+O,Ribadedeva,1
+O,Ribadesella,1
+O,Sama de Langreo,1
+O,Soto Del Barco,1
+OR,Padrenda,1
+OR,Pereiro de aguiar,1
+OR,Verin,1
+OR,VerÍn,1
+OR,Viana Do Bolo,1
+OR,Xinzo De Limia,1
+P,Cervera De Pisuerga,1
+O,Tineo ñ,1
+O,Tudela Veguin,1
+O,Valle de Lago,1
+O,"Villanueva, Santo Adriano",1
+O,Villaviciosa,1
+OR,Avion casa,1
+OR,AviÓn,1
+OR,BARBADAS,1
+OR,Barbadás,1
+OR,O Barco De Valdeorras,1
+OR,O Pereiro De Aguiar,1
+OR,OURENSE,1
+B,Sant pere de ribes,1
+B,Sant vicenç Dels Horts,1
+B,Santa Coloma De Gramenet,1
+B,Santa Coloma de Gramenet,1
+B,Santa EulÀlia De RonÇana,1
+B,Santa Perpetua De la Mogoda,1
+B,Santa Perpetua de Mogoda,1
+B,Santa Perpètua de Mogoda,1
+B,Santa Susanna,1
+B,Sant Cugat,1
+B,Sant Cugat Del Vallez,1
+B,Sant Cugat Del Vallès,1
+OR,Ourence,1
+PM,BADIA BLAVA,1
+PM,Badia Blava,1
+PM,Baleares,1
+PM,Binissalen,1
+PM,Buger  Mallorca,1
+P,Herrera de Pisuerga,1
+P,Husillos,1
+P,Menaza,1
+P,Tariego De Cerrato,1
+P,Velilla del RÍo Carrión,1
+P,Villanueva de arriba,1
+P,palencia,1
+PM,. Mahon,1
+PM,Alaior (Menorca),1
+PM,Alaro,1
+OR,Coles,1
+B,San Cugat Del Valles,1
+PM,Calviá,1
+PM,"Calviá , costa de la calma",1
+PM,Campanet,1
+PM,Campos (sa Rapita),1
+PM,Can Picafort,1
+PM,Can picafort Mallorca,1
+PM,Capdella,1
+PM,Alcúdia,1
+PM,Alqueria Blanca,1
+PM,Andratx,1
+PM,Arenal D en castell Menorca,1
+PM,Arenal De Llumayor,1
+PM,Arta,1
+PM,Arta Mallorca,1
+PM,ArtÀ,1
+PM,Cala D'or,1
+PM,"Cala D,or",1
+PM,Cala Rajada,1
+PM,Cala millor,1
+PM,Calvia,1
+B,Sant Esteve Sesrovires,1
+B,Sant FruitÓs De Bages,1
+B,Sant Hipòlit de Voltregà,1
+B,Sant Joan DespÍ,1
+B,Sant Joan Samora,1
+B,Sant MartÍ De Tous,1
+B,Sant Pol de Mar,1
+B,San Adriá Del Besós Barcelona,1
+B,San Adriá de Besós,1
+B,San Andrés De La Barca,1
+B,San Antoni Villamayor,1
+PM,Mahon-menorca,1
+PM,Mao,1
+PM,Cas Català,1
+PM,Ciudadela,1
+PM,Colònia De Sant Jordi,1
+PM,Consell,1
+PM,El Arenal De  Palma,1
+PM,El Toro Calvia,1
+PM,Es Pont D'inca,1
+PM,Esporlas,1
+PM,Esporles,1
+PM,Felanitx  mallorca,1
+PM,Felanitx. Mallorca,1
+PM,Ferrerias,1
+PM,BÚger,1
+PM,Cala Bona,1
+PM,Illetas- Cas catala,1
+B,San Esteve De Palautordera,1
+B,San Feliu De Llobregat,1
+B,San andres de la barca,1
+B,San lorenzo de hortons,1
+B,Sant AdriÀ De BesÒs,1
+B,Sant Antoni De Vilamajor,1
+B,Sant Boi De Llobregat,1
+B,Sant Boi de Llobregat,1
+B,Pola de Lena,1
+B,Prat llobregat,1
+B,Premia De Mar,1
+B,Premia de Mar,1
+B,Premià de Mar,1
+PM,Lloseta Mallorca,1
+PM,MANACOR,1
+PM,Puerto de Soller,1
+PM,Pujols,1
+PM,SOLLER,1
+PM,Sa Pobla,1
+PM,San Antonio de portmany,1
+PM,Maria de la Salut,1
+PM,MarratxÍ,1
+PM,Menorca,1
+PM,Montuiri,1
+PM,MontuÏri,1
+PM,Paguera,1
+PM,Palma De.mallorca,1
+PM,Palma de Mallora,1
+PM,Ibiza Sata Eularia Del Rio,1
+PM,Ibiza sata eularia del rio,1
+PM,Ibiza. Baleares,1
+PM,Sant Josep De Sa Talaia,1
+PM,Sant Josep de sa Talaia,1
+PM,Sant Lloren Cardedar,1
+PM,Sant Lluis,1
+PM,Santa Eulalia Del Río,1
+PM,Santa Eulália Des Riu Ibiza Illes Balears Spain,1
+PM,Santa Getrudi,1
+PM,Palma de Mallorca Islles Baleares,1
+PM,Palma nova,1
+PM,Petra,1
+PM,Pollensa,1
+PM,Pollença,1
+PM,Porreres,1
+PM,Port Alcudia,1
+PM,Porto Colom,1
+PM,Puerto Alcudia,1
+PM,Valldemossa,1
+PM,San jordi,1
+PM,"San miquel, ibiza",1
+PM,Sant Joan,1
+PM,Sant Joan De Labritja,1
+PM,Sant Jordi De Ses Salines,1
+B,RUBÍ,1
+B,Rellinar,1
+B,Roda De Ter,1
+B,SANT QUIRZE DEL VALLES,1
+B,Montcada L Reixac,1
+B,Montornès del Vallès,1
+B,Navas,1
+B,Olesa de Montserrat,1
+B,PBADALONA,1
+PM,Sant Jordi.Ibiza,1
+PO,Creciente,1
+PO,El Grove,1
+PO,El Rosal,1
+PM,Santa Margalita,1
+PM,Santa Maria Del CamÍ,1
+PM,Santa María Del Cami,1
+PM,Santa gertrudis,1
+PM,Santany,1
+PM,SantanyÍ,1
+PM,Santayi Caloge,1
+PM,Sarenal,1
+PM,Sencelles,1
+PM,Son Macià (Manacor),1
+PM,Sonservera,1
+PM,Sta Eulalia Del Rio Ibiza,1
+PM,VALLDEMOSSA,1
+PM,lluc mayor,1
+PM,puerto de soller,1
+PM,sa pobla,1
+PO,A Estradabeatriz,1
+B,Palau solita i Plegamans,1
+B,Palau solita i plegamans,1
+B,Palau-solitÀ I Plegamans,1
+B,Parets Del VallÈs,1
+B,Pineda de Mar,1
+B,Marrorelles,1
+B,Martorell,1
+B,Mediona,1
+PO,A Lama,1
+PO,Aguasantas- Cerdedo Cotobade,1
+PO,Barrantes -Ribadumia,1
+PO,Cangas De Morrazo,1
+S,Alceda,1
+PO,España,1
+PO,Forcarei,1
+PO,Gondomar,1
+PO,Goyan .Tomiño,1
+PO,Lalin,1
+PO,LalÍn,1
+PO,MoaÑa,1
+PO,Moaña,1
+PO,Mondariz,1
+PO,O Porriño,1
+PO,POIO,1
+PO,Ponte Caldelas,1
+PO,Ponteareas,1
+PM,binissalen,1
+PM,ferreries,1
+S,Camargo,1
+S,Carandia .pielagos,1
+S,Castro Urdiales,1
+S,Celis,1
+S,Cerdigo - Castro Urdiales,1
+S,Escalante,1
+PO,Portonovo,1
+PO,Salvaterra De MiÑo,1
+PO,Salvaterra De Miño,1
+PO,Santa Maria de Oia,1
+PO,Seixo-Marin,1
+PO,Tui,1
+PO,Tuy,1
+PO,VIGO,1
+PO,VilagarcÍa De Arousa,1
+PO,cambados,1
+S,Renedo De Pielagos Cantabria,1
+S,Reocin,1
+S,Requejada,1
+S,RibamontÁn Al Mar Galizano,1
+S,Rozas de soba,1
+S,SOLORZANO,1
+S,San Vicente De La Barquera,1
+S,San Vicente De La Barquera . AbaÑo,1
+S,San Vicente Del Monte,1
+S,Ampuero,1
+S,Barcena de Cicero,1
+S,Barros,1
+S,Boo de Piélagos,1
+S,Boo de guarnizo,1
+S,Cabezon De La Sal,1
+S,Cabezón de la Sal,1
+S,Limpias,1
+S,Muriedas,1
+S,Noja Cantabria,1
+S,Ojedo,1
+B,Mollet del Valles,1
+B,Mollet del Vallès,1
+B,Mollet del valles,1
+B,Monistrol De Montserrat,1
+B,Montcada I Reixac,1
+B,Montcada I Rexach,1
+B,La Pobla De Claramunt,1
+B,La Roca Del VallÈs,1
+B,La Rodonella De Cercs,1
+B,Les Franqueses Del VallÈs,1
+B,Les Franqueses del Valles,1
+B,Les Roquetas Del Garraf,1
+SE,41318,1
+SE,Alcala De GuadaÍra,1
+SE,Alcalá de Guadaira,1
+SE,Alcalá de guadaira,1
+SE,Benacazon,1
+S,Selaya,1
+S,Viérnoles,1
+S,ZURITA DE PIÉLAGOS,1
+S,pesues,1
+SA,Alba De Tormes,1
+SA,Alba de tornes,1
+SA,Carbajosa De La Sagrada,1
+SA,Ciudad Rodrigo,1
+SA,Fuente Nogal N.4 Cilleros De La Bastida Salamanca,1
+SA,Ledrada,1
+SA,Robleda,1
+SE,"Dos Hermanas, Sevilla",1
+SE,Dos hermanas,1
+SE,Ecija,1
+SE,El Cuervo De Sevilla,1
+SE,El Ronquillo,1
+SE,Esp,1
+SE,Espartinas,1
+SA,Salamancamart,1
+SA,Terradillos salamanca,1
+SA,Villamayor,1
+SA,Villares de la Reina,1
+SA,Villarmayor Salamanca,1
+SA,Villaseco De Los Reyes,1
+SA,el cerro,1
+SE,41008,1
+SE,41010sevilla4,1
+SE,Los Molares,1
+SE,Bollullos De La MitaciÓn,1
+SE,Bormujos ( Sevilla  ),1
+SE,Castilleja de la cuesta,1
+SE,Coria Del RÍo,1
+B,Llisa d'Amunt-Barcelona,1
+B,LliÇÀ De Vall,1
+B,Lliça dAmunt,1
+B,Lliça de Vall,1
+B,Malgrat De Mar - Bcn,1
+B,Malgrat de Mar,1
+B,Hostalets de Balenya,1
+B,IGUALADA,1
+B,Iden,1
+B,Jorba,1
+B,L'Esquirol,1
+SE,Peñaflor,1
+SE,Pilas ( Sevilla),1
+SE,San José De La Rinconada,1
+SE,San Juan De Aznalfarache,1
+SE,San Juan de Aznalfarache,1
+SE,Estepa. Sevilla,1
+SE,Fuengirola MÁlaga El CÓdigo Postal No Lo Sabemos,1
+SE,Gelves,1
+SE,Guillena,1
+SE,Isla mayor,1
+SE,LANTEJUELA,1
+SE,LOS PALACIOS Y VILLAFRANCA,1
+SE,Lantejuela,1
+SE,Las Cabezas De San Juan,1
+SE,Las Navas de la Concepción,1
+SE,Lebrija De,1
+SE,Villanueva Del Ariscal,1
+SE,Écija,1
+SG,Carbonero El Mayor,1
+SG,Fresno De Cantespino,1
+SG,Fresno De La Fuente,1
+SG,La lastrilla,1
+SG,Los Ángeles de San Rafael,1
+SG,Navalmanzano,1
+SE,Mairena Del Alcor Sevilla,1
+SE,Mairena Del Aljarafe,1
+SE,Mairena del Alcor,1
+SE,Mairena del alcor,1
+SE,Marchena,1
+SE,Marismillas,1
+SE,Montequinto,1
+SE,Morón de la frontera,1
+SS,Arrasate,1
+SS,Arrasate Mondragron,1
+SE,Sanlucar la Mayor,1
+SE,Sanlúcar La Mayor,1
+SE,Sevilla gelves.,1
+SE,Tomare,1
+B,L'ametlla Del VallÈs,1
+B,L'hospitalet De Llobregat.,1
+B,La Granada,1
+B,La Llagosta,1
+B,La Llagosta. Lunes esto en casa,1
+B,La Palma De CervellÓ,1
+B,El Prat De Llobregat,1
+B,Espagne,1
+B,Esparraguera,1
+B,Esparreguera,1
+SO,Burgo De Osma-ciudad De Osma,1
+SO,Covaleda,1
+SO,MiÑo De Medinaceli,1
+B,Figueras,1
+B,Fonollosa,1
+B,Gavà,1
+B,Gavá,1
+B,Hospitalet Llobregat,1
+B,Cerdanyola Del Vallès,1
+B,Cerdanyola del Vallès,1
+B,Cervelló,1
+B,Cornella,1
+SO,San Esteban De Gormaz,1
+SO,San Leonardo De Yagüe,1
+SO,Soria Capital,1
+SS,0ñate,1
+SS,Mutriku,1
+SS,Pais vasco,1
+SS,Pasaia san pedro,1
+SS,Pasajes trintxerpe,1
+SS,Rentería,1
+SS,Arrasate mondragron,1
+SS,Asteasu,1
+SS,Ataun San Gregorio,1
+SS,Bergara,1
+SS,CUENCA,1
+SS,DONOSTIA/SAN SEBASTIAN,1
+SS,Donosti,1
+SS,Donosti- San Sebastián,1
+SS,Erenteria,1
+SS,Hernani (guipúzcoa),1
+SG,Palazuelos De Eresma,1
+SS,Hondarribia,1
+SS,IRUN,1
+SS,IrÚn,1
+SS,Lasarte,1
+B,Cornellà De Llobregat Barcelona,1
+B,Cornellá de Llobregat,1
+B,Cornellá de llobregat,1
+B,Dabadell,1
+B,Dosrius,1
+B,El Bruc,1
+B,Caldes d estrac,1
+B,Calella,1
+B,Calella de mar,1
+B,Callus,1
+B,Canyelles,1
+B,Cardedeu,1
+SS,San sebastian- donostia,1
+B,Castellar del Valles,1
+B,Castellar del valles,1
+B,Castelldefel,1
+B,CastellterÇol,1
+B,Centelles,1
+B,Cerdanyola  del valles,1
+B,Badia del valles,1
+B,Barberá del Vallés,1
+B,Barcelon,1
+B,Barcelona Ciutat Vella,1
+B,Barcelona En Cabrera De Mar,1
+SS,Viabona Zuzurkil,1
+T,Alcanar,1
+T,Bonavista,1
+T,Bítem,1
+T,Riudecanyes,1
+T,Roda De Bara,1
+T,Roquetas,1
+T,Roquetes,1
+T,San Carlos De La Rapita,1
+T,EL VENDRELL,1
+T,El Perello,1
+T,Els Garidells,1
+T,Garcia,1
+T,"L""arboc",1
+T,L'Hospitalet de L'Infan,1
+T,L'hospitalet De L'infant,1
+T,LAldea,1
+SS,San SebastiÁn,1
+SS,San Sebastián Donosti,1
+SS,San sebastian,1
+T,La Sénia,1
+T,Montbrio del Camp,1
+T,REUS,1
+B,Barcelona España,1
+B,Barcelona Gràcia,1
+B,Barcelons,1
+B,Begues,1
+B,CARDEDEU,1
+B,CORNELLÀ DE LLOBREGAT,1
+AV,Las navas  del Marques,1
+AV,Maello,1
+AV,Mombeltran,1
+AV,Navaluenga,1
+AV,Navarredondilla,1
+AV,Sotillo De La Adrada,1
+T,RIUDOMS,1
+TE,Teruel San blas,1
+TE,Torre del Copmte,1
+TE,UTRILLAS,1
+T,Sant Jordi (santa oliva),1
+T,Santa oliva,1
+T,Segur de Calafell,1
+T,Segur de calafell,1
+T,Tarragon,1
+T,Tivissa,1
+T,VALLS,1
+T,Vespella De Gaia,1
+T,Vilafortuny (Cambrils),1
+T,Vilallonga Del Camp,1
+T,La Canonja,1
+T,La Rapita,1
+T,La Riba,1
+TO,Cobisa,1
+TO,Corral de  Amaguer,1
+TO,El Casar De Escalona,1
+TO,La Iglesuela Del TiÉtar,1
+TO,Las Ventas De Retamosa,1
+TO,Lillo,1
+T,Vilaplana,1
+T,Vilaseca,1
+T,Zona Costera Port bara,1
+T,calafell,1
+T,segur de Calafell,1
+TE,Alcalá de la selva,1
+TE,Arcos de las Salinas,1
+TE,Calamocha,1
+TE,Calanda,1
+TE,Monreal del campo,1
+TO,Alberche del Caudillo,1
+TO,Bargas,1
+TO,Carranque,1
+TO,Casarrubios del monte,1
+TO,Cedillo de condado,1
+B,08003,1
+B,Arenys de mar,1
+B,Argentona,1
+B,BARBERA. DEL. VALLES,1
+AL,Tabernas,1
+AL,TÍjola,1
+AL,VÍcar,1
+AL,Vélez Rubio,1
+AL,Zurgena,1
+AL,nijar,1
+TO,Cobeja,1
+TO,Villacañas,1
+TO,Villafranca De Los Caballeros,1
+TO,Villafranca de los caballeros,1
+TO,Yuncos,1
+TO,Magan Toledo,1
+TO,Magán,1
+TO,Malpica De Tajo,1
+TO,Menasalbas,1
+TO,Navalcan45,1
+TO,Noves,1
+TO,Numancia De La Sagra,1
+TO,Numancia de la Sagra,1
+TO,Orgaz,1
+TO,Pepino,1
+TO,Puente del Arzobispo,1
+TE,Villastar,1
+AL,Garrucha,1
+AL,Guardias Viejas,1
+Unknown,Azagra Navarra,1
+Unknown,BIURRUN,1
+Unknown,BaraÑain  (navarra),1
+Unknown,Barañain,1
+Unknown,Baztan Irurita,1
+Unknown,Berrioplano,1
+Unknown,Berriozar,1
+TO,Seseña,1
+TO,Sonseca,1
+TO,Talavera,1
+TO,Toledo capital,1
+TO,Ugena,1
+TO,Urda,1
+TO,Val De Santo Domingo,1
+Unknown,Larraga,1
+Unknown,Aoiz,1
+Unknown,Arbizu,1
+Unknown,Artajona .pamplona,1
+Unknown,Arteaga,1
+AV,Arenas De San Pedro,1
+AV,Arevalo,1
+AV,Burgohondo,1
+AV,Collado De Contreras,1
+AV,EL BARCO DE AVILA,1
+AV,Gavilanes,1
+AV,La Adrada,1
+AV,LanzahÍta,1
+AL,Campohermoso Níjar,1
+AL,Carboneras,1
+AL,Fiñana Almeria,1
+Unknown,Puente la Reina,1
+Unknown,SangÜesa,1
+Unknown,Sangüesa,1
+Unknown,Canals ( Valencia ),1
+Unknown,"Caparroso  ,navarra",1
+Unknown,Cintruénigo,1
+Unknown,Cizur Menor,1
+Unknown,Ciáurriz (Odieta),1
+Unknown,Doneztebe,1
+Unknown,Elizondo,1
+Unknown,Estella,1
+Unknown,Estella/lizarra,1
+Unknown,Etxarri Aranatz,1
+Unknown,Figarol,1
+Unknown,Fontellas,1
+Unknown,Garinoain,1
+Unknown,pamplona,1
+V,ALFAFAR,1
+V,Aielo De Malferit,1
+V,Albalat dels Sorells,1
+V,Alberic,1
+V,Alberique,1
+V,Aldaia,1
+Unknown,Larragueta,1
+Unknown,Lugo,1
+Unknown,NUEVO ARTICA,1
+Unknown,Noáin (Valle de Elorz)/Noain (Elortzibar),1
+Unknown,OLAZAGUTIA,1
+Unknown,Olazti,1
+Unknown,Pamplona/Iruña,1
+Unknown,Panplona,1
+Unknown,Peralta,1
+Unknown,Santa EulÀria Des Riu,1
+Unknown,Torrevieja,1
+Unknown,Valtierra,1
+Unknown,Villava,1
+AL,Huercal Overa,1
+AL,HuÉrcal De AlmerÍa,1
+AL,Llanos de la cañada de San urbano,1
+AL,Macael,1
+AL,Pulpi,1
+AL,Santa Maria del Águila,1
+AB,Tarazona de la Mancha,1
+AB,Tarazona de la mancha,1
+AL,13 . Muebles Plegur,1
+AL,Abla,1
+Unknown,Zizur Mayor,1
+Unknown,fitero,1
+AL,Almerimar,1
+AL,Berja,1
+A,Xixona,1
+A,XÀbia,1
+A,alicante,1
+A,javea,1
+A,santa pola,1
+A,torrevieja,1
+AB,02002 Albacete,1
+V,Beniganim,1
+V,Benimamet,1
+V,Benimuslem,1
+V,Beniparrell,1
+V,Bocairent,1
+V,Burjasot,1
+V,Bétera,1
+V,Moncada,1
+V,Montroi,1
+V,Montroy,1
+V,Canals,1
+V,Catarroja,1
+V,"Cañada, La (requena)",1
+V,Chiva,1
+V,EL VEDAT DE TORRENT,1
+V,El Puig De Santa Maria,1
+V,Faura,1
+V,Godelleta,1
+V,Algemesí,1
+V,Alginet,1
+AL,Alboloduy.  Almeria,1
+AL,Albox,1
+AL,Almeriaburgos,1
+A,San Juan de Alicante,1
+A,San Miguel de Salinas,1
+V,Picanya,1
+V,Playa de gandia,1
+V,PolinyÀ De XÚquer,1
+V,Puerto de Sagunto,1
+V,Puerto de sagunto,1
+V,Puzol,1
+V,Rafelbuñol,1
+V,LAlcudia,1
+V,La Eliana,1
+V,La Pobla Del Duc,1
+V,Lliria,1
+V,Llombai,1
+V,Masalfassar,1
+V,Miramar,1
+V,Tavernes De La Valldigna,1
+V,Titaguas,1
+V,Torrente,1
+V,Oliva,1
+V,Ondara,1
+V,PICASENT,1
+AB,Alcaraz,1
+AB,Elche De La Sierra,1
+AB,Hellin,1
+AB,HellÍn,1
+AB,Hoya gonzalo,1
+AB,La gineta,1
+AB,Tarazona De La Mancha,1
+A,Playa San Juan,1
+A,Rafal,1
+A,Relleu,1
+V,San Antonio de Benageber,1
+V,San Antonio de Requena,1
+A,San Vicente del Raspeig,1
+A,Santa Pola,1
+A,Santa pola,1
+A,Teulada,1
+A,Villena,1
+A,L'alfÀs Del Pi,1
+A,Los Arenales del Sol   elche,1
+A,Monforte Del Cid,1
+A,Monovar,1
+A,Mutxamel,1
+A,Ondara,1
+V,Serra,1
+V,TORRENT,1
+V,"Tavernes Blanques, 46016 Valencia",1
+A,Eivissa baleares,1
+VA,España,1
+VA,ISCAR,1
+VA,Iscar,1
+VA,La Cisterniga( Valladolid),1
+VA,La cisterniga,1
+VA,Mojados,1
+VA,Pedrajas De San Esteban,1
+V,Utiel,1
+V,Valencia  Paterna,1
+V,Valencia (alberique),1
+V,Vilallonga/villalonga,1
+V,Vilamarxante,1
+V,Riba-roja De TÚria,1
+V,Ribarroja de Turia,1
+V,Sagunt,1
+V,Xàtiva,1
+V,YÁtova,1
+V,valencia,1
+VA,Arrabal de Portillo,1
+VA,Arrabal de portillo,1
+VA,Ciguñuela,1
+A,Orihuela.     Alicante,1
+A,PETRER,1
+A,Pedreguer,1
+A,Pilar De La Horadada,1
+A,Pilar De La Horadada.,1
+A,Pinoso,1
+A,Playa Albir,1
+A,Crevillente,1
+A,Dehesa De Campoamor,1
+A,ELDA,1
+Z,Ateca,1
+Z,Belchite,1
+VA,Pozaldez,1
+VA,Renedo  de Esgueva,1
+VA,Santovenia de pisuerga,1
+VA,Simancas,1
+VA,Tordesillas,1
+VA,Trigueros del Valle,1
+VA,Viana De Cega,1
+VA,Villacid de campos,1
+VA,Villalbarba,1
+VA,Zaratán,1
+VI,Alegría Dulantzi,1
+VI,Antoñana,1
+VI,Artziniega,1
+VI,Erriberabeitia,1
+Z,Erla,1
+Z,Fuentes de Ebro,1
+Z,Gallur,1
+Z,Jaulin( Zaragoza),1
+Z,La Almunia,1
+Z,LÉcera,1
+Z,MARIA DE HUERVA,1
+VI,LagrÁn,1
+VI,Llodio,1
+VI,ONDATEGI,1
+VI,Vitoria  gasteiz,1
+VI,vitoria,1
+VI,vitoria gasteiz,1
+Z,Aguaron,1
+Z,AinzÓn,1
+Z,Artieda,1
+Z,Tauste (santa Engracia),1
+A,Aspe,1
+A,Ayora,1
+A,Banyeres De Mariola,1
+A,Albatera l,1
+A,Benidorm 03503,1
+A,Bigastro,1
+ZA,Fermoselle,1
+ZA,MONTAMARTA,1
+ZA,Palacios Del Pan,1
+ZA,Quintanilla Del Olmo,1
+ZA,Toro,1
+ZA,Vadillo De La Guareña,1
+ZA,Villaralbo,1
+Z,Cadrete,1
+Z,Cariñena,1
+A,Busot,1
+A,Callosa D'en SarriÀ,1
+A,Callosa De segura,1
+A,Callosa de ensarria,1
+A,Catral,1
+Z,ZARAGOZA,1
+Z,"Zaragoza,",1
+Z,Zuera,1
+ZA,BENAVENTE,1
+ZA,Castilla - Leon,1
+Z,Pimsoro,1
+Z,Pradilla de Ebro,1
+Z,Sancho Abarka,1
+Z,TARAZONA,1
+Z,Tarazona,1
+Z,Tauste,1

@@ -1,19 +1,16 @@
-# Ignora todo por defecto en las carpetas code/ y data/
-code/*
-!code/tfm/
+# Dentro de Data/TFM permitir solo los notebooks indicados
+Data/TFM/*
+!Data/TFM/idealista_02.csv
+!Data/TFM/idealista_03.csv
+!Data/TFM/idealista_04.csv
+!Data/TFM/idealista_05.csv
+!Data/TFM/madrid_districts.geojson
+!Data/TFM/datos_procesados_final.csv
 
-data/*
-!data/idealista_02.csv
-!data/idealista_03.csv
-!data/idealista_04.csv
-!data/idealista_05.csv
-!data/madrid_districts.geojson
-!data/datos_procesados_final.csv
-
-# Dentro de data/TFM permitir solo los notebooks indicados
-data/TFM/*
-!data/TFM/Notebool_11.ipynb
-!data/TFM/Geopandas.ipynb
+# Dentro de Code/TFM permitir solo los notebooks indicados
+Code/TFM/*
+!Code/TFM/Notebool_11.ipynb
+!Code/TFM/Geopandas.ipynb
 
 # Ignora archivos de datos en cualquier parte, excepto los permitidos explícitamente
 *.csv
